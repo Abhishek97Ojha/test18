@@ -1,4 +1,3 @@
-import dp from "../accets/rutu.png";
 const Left=()=>{
 return (
 <div className="LeftContainer">
